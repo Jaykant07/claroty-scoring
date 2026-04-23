@@ -1,0 +1,37 @@
+{
+  "protocols": {
+    "502": 1,
+    "102": 1,
+    "44818": 1,
+    "80": 2,
+    "443": 2,
+    "5900": 2
+  },
+  "device_types": {
+    "safety_plc": 1,
+    "plc": 1,
+    "rtu": 1,
+    "hmi": 2,
+    "scada": 2,
+    "historian": 2,
+    "iot_gateway": 2,
+    "switch": 3,
+    "ews": 3,
+    "workstation": 4,
+    "printer": 4
+  },
+  "vendors": {
+    "siemens": 1,
+    "schneider": 1,
+    "schneider-electric": 1,
+    "rockwell": 1,
+    "honeywell": 1,
+    "wonderware": 2,
+    "osisoft": 3,
+    "microsoft": 4,
+    "dell": 4,
+    "hp": 4,
+    "cisco": 3,
+    "unisoc": 3
+  }
+}

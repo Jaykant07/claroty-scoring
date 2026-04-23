@@ -1,0 +1,15 @@
+{
+  "modbus": {"attack_id": "T0881", "attack_name": "Service Stop", "impact": "Medium", "tactic": "Inhibit Response Function"},
+  "s7comm": {"attack_id": "T0806", "attack_name": "Brute Force I/O", "impact": "Low", "tactic": "Execution"},
+  "ethernet_ip": {"attack_id": "T0845", "attack_name": "Modify Parameter", "impact": "High", "tactic": "Impact"},
+  "dnp3": {"attack_id": "T0881", "attack_name": "Service Stop", "impact": "Medium", "tactic": "Inhibit Response Function"},
+  "profinet": {"attack_id": "T0806", "attack_name": "Brute Force I/O", "impact": "Low", "tactic": "Execution"},
+  "opc_ua": {"attack_id": "T0846", "attack_name": "Remote System Discovery", "impact": "Medium", "tactic": "Discovery"},
+  "bacnet": {"attack_id": "T0845", "attack_name": "Modify Parameter", "impact": "High", "tactic": "Impact"},
+  "T0846": {"attack_id": "T0846", "attack_name": "Remote System Discovery", "impact": "Medium", "tactic": "Discovery"},
+  "T0866": {"attack_id": "T0866", "attack_name": "Exploitation of Remote Services", "impact": "High", "tactic": "Lateral Movement"},
+  "T0839": {"attack_id": "T0839", "attack_name": "Module Firmware", "impact": "High", "tactic": "Persistence"},
+  "T0890": {"attack_id": "T0890", "attack_name": "Exploitation for Evasion", "impact": "High", "tactic": "Evasion", "threat_weight": 70},
+  "T0858": {"attack_id": "T0858", "attack_name": "Change Operating Mode", "impact": "Medium", "tactic": "Impact", "threat_weight": 40},
+  "T0812": {"attack_id": "T0812", "attack_name": "Default Credentials", "impact": "High", "tactic": "Initial Access", "threat_weight": 50}
+}

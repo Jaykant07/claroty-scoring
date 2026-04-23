@@ -1,0 +1,26 @@
+# Claroty OT Security Risk Scoring Platform
+# Core
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.0
+python-dotenv==1.0.1
+
+# Database
+sqlalchemy==2.0.29
+aiosqlite==0.20.0
+
+# HTTP Client (NVD / EPSS API)
+httpx==0.27.0
+
+# Scheduling
+apscheduler==3.10.4
+
+# SNMP
+pysnmp==7.1.4
+
+# Packet capture (optional – requires Npcap on Windows)
+scapy==2.7.0
+
+# Utilities
+python-dateutil==2.9.0
+reportlab

@@ -1,0 +1,7 @@
+[
+  {"vendor": "siemens", "os": "vxworks", "cve_id": "CVE-2024-38876", "cvss": 9.8},
+  {"vendor": "schneider", "os": "linux", "cve_id": "CVE-2024-37036", "cvss": 9.1},
+  {"vendor": "rockwell", "os": "vxworks", "cve_id": "CVE-2023-32434", "cvss": 7.8},
+  {"vendor": "dell/hp/it", "os": "windows", "cve_id": "CVE-2024-29988", "cvss": 8.8},
+  {"vendor": "dell", "os": "windows", "cve_id": "CVE-2023-36884", "cvss": 8.8}
+]

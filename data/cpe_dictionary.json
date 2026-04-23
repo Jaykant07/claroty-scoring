@@ -1,0 +1,28 @@
+{
+  "siemens": {
+    "vxworks": "cpe:2.3:h:siemens:s7-1500:-:*:*:*:*:*:*:*",
+    "linux": "cpe:2.3:a:siemens:wincc:-:*:*:*:*:*:*:*"
+  },
+  "schneider": {
+    "vxworks": "cpe:2.3:h:schneider-electric:m340:-:*:*:*:*:*:*:*",
+    "linux": "cpe:2.3:a:schneider-electric:ecostruxure:-:*:*:*:*:*:*:*"
+  },
+  "schneider-electric": {
+    "vxworks": "cpe:2.3:h:schneider-electric:m340:-:*:*:*:*:*:*:*",
+    "linux": "cpe:2.3:a:schneider-electric:ecostruxure:-:*:*:*:*:*:*:*"
+  },
+  "rockwell": {
+    "vxworks": "cpe:2.3:h:rockwellautomation:controllogix:-:*:*:*:*:*:*:*",
+    "windows": "cpe:2.3:a:rockwellautomation:factorytalk_view:-:*:*:*:*:*:*:*"
+  },
+  "dell/hp/it": {
+    "windows": "cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:*:*",
+    "linux": "cpe:2.3:o:linux:linux_kernel:-:*:*:*:*:*:*:*"
+  },
+  "dell": {
+    "windows": "cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:*:*"
+  },
+  "unisoc": {
+    "linux": "cpe:2.3:h:unisoc:t610:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,70 @@
+.compliance-dashboard {
+  padding: 24px;
+}
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.download-btn {
+  background: #58a6ff;
+  color: #0d1117;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.download-btn:hover {
+  background: #3182ce;
+}
+
+.matrix-card {
+  padding: 0;
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.compliance-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.compliance-table th,
+.compliance-table td {
+  padding: 16px;
+  text-align: left;
+  border-bottom: 1px solid #30363d;
+}
+
+.compliance-table th {
+  background: #0d1117;
+  color: #8b949e;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+}
+
+.badge {
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.badge.pass {
+  background: rgba(74, 249, 163, 0.1);
+  color: #4af9a3;
+}
+
+.badge.fail {
+  background: rgba(255, 90, 90, 0.1);
+  color: #ff5a5a;
+}
