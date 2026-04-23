@@ -114,6 +114,3 @@ This project is a full-stack platform for OT (Operational Technology) asset disc
 
 ---
 
-## License
-
-MIT License (see LICENSE file)
